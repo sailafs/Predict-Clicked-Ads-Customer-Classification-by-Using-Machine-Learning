@@ -9,7 +9,8 @@ This project aims to predict customer classification for clicked advertisements 
 - LinkedIn: [linkedin.com/in/sailafs1203/](https://linkedin.com/in/sailafs1203/)
 
 ## Background
-As a health psychology graduate turned data scientist, I bring a unique perspective to this project, combining expertise in research methods, data analysis, and understanding human behavior. This project showcases the application of data science techniques in digital marketing, emphasizing a human-centric approach.
+A company in Indonesia wants to know the effectiveness of an advertisement they launched online. This is important for the company to understand how well the advertisement reaches its target audience, so they can attract customers to click on the ad.
+By processing historical advertisement data and uncovering insights and patterns, it can assist companies in determining their marketing targets. The focus of this case is to create a machine learning classification model that serves to identify the right target customers.
 
 ## Project Highlights
 - **Data Analysis**: Conducted thorough statistical analysis and exploratory data analysis (EDA) on customer behavior and demographics.
